@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: yuktived
+Version: 0.1
+Summary: A Python library for data analysis and machine learning
+Author: Akshat Shukla
+Author-email: akshatshukla317@gmail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn

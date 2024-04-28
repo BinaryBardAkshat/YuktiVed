@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+Yuktived/__init__.py
+Yuktived/data.py
+Yuktived/ml.py
+Yuktived/stats.py
+yuktived.egg-info/PKG-INFO
+yuktived.egg-info/SOURCES.txt
+yuktived.egg-info/dependency_links.txt
+yuktived.egg-info/requires.txt
+yuktived.egg-info/top_level.txt
